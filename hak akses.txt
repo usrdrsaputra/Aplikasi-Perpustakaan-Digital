@@ -1,0 +1,11 @@
+- user/peminjam
+username :satria
+password :satria
+
+- admin
+username :admin
+password :admin
+
+- petugas
+username :petugas
+password :petugas
